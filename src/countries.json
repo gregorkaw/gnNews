@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Poland", "symbol": "pl", "flagURL": "https://www.worldometers.info/img/flags/pl-flag.gif"},
+  { "id": 2, "name": "United Kingdom", "symbol": "gb", "flagURL": "https://www.worldometers.info/img/flags/uk-flag.gif" },
+  { "id": 3, "name": "United States", "symbol": "us", "flagURL": "https://www.worldometers.info/img/flags/us-flag.gif" },
+  { "id": 4, "name": "France", "symbol": "fr", "flagURL": "https://www.worldometers.info/img/flags/fr-flag.gif" },
+  { "id": 5, "name": "Sweden", "symbol": "se", "flagURL": "https://www.worldometers.info/img/flags/sw-flag.gif" },
+  { "id": 6, "name": "Norway", "symbol": "no", "flagURL": "https://www.worldometers.info/img/flags/no-flag.gif" },
+  { "id": 7, "name": "Netherlands", "symbol": "nl", "flagURL": "https://www.worldometers.info/img/flags/nl-flag.gif" },
+  { "id": 8, "name": "Austria", "symbol": "at", "flagURL": "https://www.worldometers.info/img/flags/au-flag.gif" },
+  { "id": 9, "name": "China", "symbol": "cn", "flagURL": "https://www.worldometers.info/img/flags/ch-flag.gif" },
+  { "id": 10, "name": "Hungary", "symbol": "hu", "flagURL": "https://www.worldometers.info/img/flags/hu-flag.gif" }
+]
