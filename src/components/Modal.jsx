@@ -32,7 +32,7 @@ export default function Modal() {
                 {/*header*/}
                 <div className="flex items-start justify-between p-5 border-b border-solid border-slate-200 rounded-t">
                   <h3 className="text-3xl font-semibold">
-                    Co sprawiło mi trudność oraz co dało mi największą frajdę?
+                    @Grzegorz Kawecki 2023
                   </h3>
                   <button
                     className="p-1 ml-auto bg-transparent border-0 text-black opacity-5 float-right text-3xl leading-none font-semibold outline-none focus:outline-none"
@@ -45,12 +45,7 @@ export default function Modal() {
                 </div>
                 {/*body*/}
                 <div className="relative p-6 flex-auto">
-                  <p className="my-4 text-slate-500 text-lg leading-relaxed">
-                    Największą trudność sprawiło mi dopracowanie API i wymyślenie sposobu na to, jak wyświetlać kraje w sidebarze (do zmiany wyświetlanych newsów)
-                  </p>
-                  <p className="my-4 text-slate-500 text-lg leading-relaxed">
-                    Największą frajdę dało mi tworzenie layoutu :P
-                  </p>
+
                 </div>
                 {/*footer*/}
                 <div className="flex items-center justify-center p-6 border-t border-solid border-slate-200 rounded-b">
